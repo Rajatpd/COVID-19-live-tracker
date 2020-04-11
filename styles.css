@@ -1,0 +1,172 @@
+
+.into {
+  background-color: #66bfbf;
+  text-align: center;
+  padding: 50px 0 20px;
+
+}
+
+h2 {
+  text-align: center;
+  font-family: cursive;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+
+.intro {
+  text-align: center;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 2rem;
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  }
+
+.topoption {
+  font-family: cursive;
+  color: black;
+  font-size: 1.5rem;
+}
+
+.break {
+  border: none;
+  width: 10%;
+  color: none;
+}
+
+
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 50%;
+  margin: 20px;
+  align-self: auto;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+  text-align: center;
+}
+
+
+a {
+  color: black;
+  font-family: 'Montserrat' , sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  text-align: center;
+  image-orientation: center;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+
+.bottom-container {
+  color: black;
+  font-weight: lighter;
+  text-align: center;
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  text-decoration-color: #66bfbf;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  font-family: sans-serif;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+img {
+  background-color: none;
+
+}
+
+.namaste:hover {
+  background-color: green;
+}
+
+.handshake:hover {
+
+   background-color: red;
+}
+
+
+/* Testimonial Section */
+
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 85%;
+  margin: 140px;
+}
+
+em {
+  text-align: center;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+
+/*button*/
+
+.btn {
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:9px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:13px;
+	padding:12px 21px;
+	text-decoration:none;
+	text-shadow:0px 1px 4px #2f6627;
+}
+.btn:hover {
+	background-color: gold;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
