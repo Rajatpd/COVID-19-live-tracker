@@ -80,6 +80,13 @@ a:hover {
   color: #eaf6f6;
 }
 
+a.footer-link {
+  color: white;
+}
+
+a.footer-link:hover {
+  color: black;
+}
 
 .bottom-container {
   color: black;
